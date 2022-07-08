@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "msg": "ok",
+  "host": [
+    "aHR0cHM6Ly9nZ3FoYXNtZi5jb20v",
+	"aHR0cHM6Ly9nZG56ajYuY29tLw==",
+	"aHR0cHM6Ly9nbmlxb2djb2cuY29tLw==",
+	"aHR0cHM6Ly9neG9hcm5heW8uY29tLw==",
+	"aHR0cHM6Ly9naWl3aWN3Zm0uY29tLw==",
+	"aHR0cHM6Ly9na2tndmF3ZW0uY29tLw==",
+	"aHR0cHM6Ly9naW1tcHdmdWQuY29tLw=="
+  ],
+  "versionCode": 1,
+  "apkNewUrl": "https:\/\/app-release.apk",
+  "apkUpdateHint": "发现新版本请立即升级"
+}
